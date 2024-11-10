@@ -2,6 +2,8 @@
 
 Welcome to the **LeetCode Championship H0 Kitchen!** Each Sunday, we gather to tackle a LeetCode problem, competing for points and, of course, bragging rights. Let’s sharpen our coding skills while having some fun!
 
+# Next round: Sunday 17th November 2024 at 21:45
+
 ## Rules
 1. **Problem Selection**: Each week, we choose the **daily medium difficulty** problem from LeetCode.
 2. **Time Limit**: You have **30 minutes** to solve the problem.
